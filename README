@@ -1,0 +1,17 @@
+"COPYRIGHT 2020"
+IALANGI BIANCA ELENA
+311CA
+
+----------------------Probabilistic-Counting--------------------------------------------------------------------------
+
+Se creeaza un Hashtable in care fiecare bucket este reprezentat de numarul de 0-uri consecutivi din primii 21 biti ai numarului citit din fisier iar hmax este nr de bucket-uri.
+
+POSITION_HT : calculeaza bucket-ul in care numarul trebuie (prin numarul creat de ultimii 11 biti ai informatiei introduse).
+
+NUMBER_ZEROS : calculeaza numarul de 0-uri consecutivi de pe pozitia 21, in ordine descresctoare, ai numarului introdus.
+
+PUT : gaseste numarul maxim de 0-uri pe care il numarul introdus in bucket, in comparatie cu numerele introduse anterior in acelasi bucket.
+
+
+
+
